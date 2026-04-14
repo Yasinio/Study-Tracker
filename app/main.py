@@ -11,10 +11,10 @@ def home():
     html_content = """
     <html>
         <head>
-            <title>Cloud DevOps Study Tracker</title>
+            <title>Tasks Monitor</title>
         </head>
         <body>
-            <h1>Cloud DevOps Study Tracker</h1>
+            <h1>This is a simple app that can help to track tasks</h1>
             <p>Add your study tasks below.</p>
 
             <form action="/add" method="post">
