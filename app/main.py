@@ -14,7 +14,7 @@ def home():
     html_content = f"""
     <html>
         <head>
-            <title>Cloud DevOps Study Tracker</title>
+            <title>Task Tracker</title>
             <style>
                 body {{
                     font-family: Arial, sans-serif;
