@@ -181,7 +181,7 @@ def home():
         </head>
         <body>
             <div class="container">
-                <h1>Cloud DevOps Study Tracker</h1>
+                <h1>Task Tracker</h1>
                 <p>Track study tasks, emails, calls, and deadlines in one place.</p>
 
                 <form action="/add" method="post" class="task-form">
